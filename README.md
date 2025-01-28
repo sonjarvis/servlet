@@ -15,7 +15,7 @@ Java: 17
 
 IDE : IntelliJ
 
-Dependencies : SPRING WEB, LOMBOK 
+Dependencies : Spring Web, Lombok 
 
 
 
